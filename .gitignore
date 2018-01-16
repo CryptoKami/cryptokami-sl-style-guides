@@ -1,0 +1,9 @@
+.stack-work
+*#
+\#*
+*~
+.#*
+tmp/
+TAGS
+.dir-locals.el
+.idea
